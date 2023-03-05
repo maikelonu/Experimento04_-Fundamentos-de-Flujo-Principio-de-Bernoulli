@@ -26,7 +26,7 @@
 setwd("C:/DATOS/R_ITC/R_LABHYD/EXP_BERN")
 
 # CRAN libraries are loaded
-require(Agreement)
+# require(Agreement)
 require(DescTools)
 require(effects)
 require(ggplot2)
