@@ -22,8 +22,7 @@
 # //////////////////////////////////////////////////////////////////////////////////
 
 # Working directory is selected
-#setwd("/media/maikel/Trabajo/R_ITC/R_LABHYD/EXP_BERN/")
-setwd("C:/DATOS/R_ITC/R_LABHYD/EXP_BERN")
+"/home/shoe/Downloads/LABHYD_Exp_04_Principio_Bernoulli-master"
 
 # CRAN libraries are loaded
 # require(Agreement)
@@ -328,7 +327,6 @@ fg02 <- ggplot() +
 
 # A ggplot2 object is requested
 fg02
-
 
 # Mean absolute deviation (MAD) column is created
 df.MAD <- as.data.frame(abs(df.velocity$V.CALC - df.velocity$V.MEDIDA))
