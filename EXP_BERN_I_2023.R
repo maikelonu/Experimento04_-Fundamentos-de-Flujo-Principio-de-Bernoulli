@@ -22,7 +22,7 @@
 # //////////////////////////////////////////////////////////////////////////////////
 
 # Working directory is selected
-"/home/shoe/Downloads/LABHYD_Exp_04_Principio_Bernoulli-master"
+setwd("/home/shoe/Downloads/LABHYD_Exp_04_Principio_Bernoulli-master")
 
 # CRAN libraries are loaded
 # require(Agreement)
